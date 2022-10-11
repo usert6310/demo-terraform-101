@@ -9,3 +9,4 @@ resource "aws_instance" "web" {
 }
 
 variable "ami" {}
+ #test
